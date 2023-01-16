@@ -1,0 +1,24 @@
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\bin\Debug\Mario.exe.config
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\bin\Debug\Mario.exe
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\bin\Debug\Mario.pdb
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\bin\Debug\Mario.xml
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.vbprojAssemblyReference.cache
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.Form1.resources
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.Resources.resources
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.vbproj.GenerateResource.cache
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.vbproj.CoreCompileInputs.cache
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.exe
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.xml
+C:\Users\Yepy Ezek\source\repos\Mario\Mario\obj\Debug\Mario.pdb
+C:\Users\Yepy\source\repos\Mario\Mario\bin\Debug\Mario.exe.config
+C:\Users\Yepy\source\repos\Mario\Mario\bin\Debug\Mario.exe
+C:\Users\Yepy\source\repos\Mario\Mario\bin\Debug\Mario.pdb
+C:\Users\Yepy\source\repos\Mario\Mario\bin\Debug\Mario.xml
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.vbprojAssemblyReference.cache
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.Form1.resources
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.Resources.resources
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.vbproj.GenerateResource.cache
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.vbproj.CoreCompileInputs.cache
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.exe
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.xml
+C:\Users\Yepy\source\repos\Mario\Mario\obj\Debug\Mario.pdb
